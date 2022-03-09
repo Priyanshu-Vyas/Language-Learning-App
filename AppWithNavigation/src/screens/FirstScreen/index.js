@@ -21,7 +21,7 @@ export default function FirstScreen({navigation}) {
       </TouchableOpacity>
       <Image
         style={styles.image}
-        source={require('K:/Apps/ReactNative/AppWithNavigation/img/1.png')}
+        source={require('K:/Apps/ReactNative/Language-Learning-App/AppWithNavigation/img/1.png')}
       />
     </View>
   );
