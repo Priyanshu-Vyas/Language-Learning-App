@@ -6,3 +6,6 @@
 
 ### HOME
 > <img height=400 width=200 src='https://github.com/Priyanshu-Vyas/Language-Learning-App/blob/main/AppWithNavigation/img/Home.jpg' />
+
+### Main
+> <img height=400 width=200 src='https://github.com/Priyanshu-Vyas/Language-Learning-App/blob/main/AppWithNavigation/img/Main.jpg' />
