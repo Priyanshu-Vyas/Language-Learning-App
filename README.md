@@ -5,7 +5,7 @@
 >---
 
 ### HOME
-> <img height=400 width=200 src='https://github.com/Priyanshu-Vyas/img/Home.jpg' />
+> <img height=400 width=200 src='https://github.com/Priyanshu-Vyas/Language-Learning-App/blob/main/img/Home.jpg' />
 
 ### Main
-> <img height=400 width=200 src='https://github.com/Priyanshu-Vyas/img/Main.jpg' />
+> <img height=400 width=200 src='https://github.com/Priyanshu-Vyas/Language-Learning-App/blob/main/img/Main.jpg' />
